@@ -82,6 +82,10 @@ celerybeat-schedule
 # dotenv
 .env
 
+# Data
+*.csv
+*.txt
+
 # virtualenv
 .venv
 venv/
